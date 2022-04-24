@@ -16,3 +16,12 @@ int main()
  
     return 0;
 }
+
+o/p:
+Please Enter temperature in Celsius: 
+45
+45.00 Celsius = 113.00 Fahrenheit
+
+Please Enter temperature in Celsius: 
+33 
+33.00 Celsius = 91.40 Fahrenheit
